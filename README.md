@@ -1,1 +1,0 @@
-# Inferential_stastics_practical
