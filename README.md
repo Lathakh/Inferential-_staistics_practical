@@ -1,1 +1,1 @@
-# Inferential-_staistics_practical
+# Inferential_stastics_practical
