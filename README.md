@@ -72,4 +72,4 @@ H1--> mu!=45 ( 2 tail test)( sample mean is not population mean)
 
 
 # chi-sqaure test - categorical data
- 1. non parametric we are not calculating central tendacy instead we are going with observed data - expected data
+ 1. we are going with observed data - expected data
