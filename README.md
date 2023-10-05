@@ -33,9 +33,9 @@ else
 
 IF z_score < z_critical - we fail to reject the null hypothesis
 
-p>=0.05 we reject the null hypothesis
+p<=0.05 we reject the null hypothesis
 
-p<=0.05 we fail to reject the null hypothesis
+p>0.05 we fail to reject the null hypothesis
 
 
 
